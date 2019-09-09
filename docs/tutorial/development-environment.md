@@ -5,9 +5,9 @@ system into an environment capable of building desktop apps with Electron,
 you will merely need Node.js, npm, a code editor of your choice, and a
 rudimentary understanding of your operating system's command line client.
 
-## Setting up macOS
+# Setting up macOS
 
-> Electron supports macOS 10.10 (Yosemite) and up. Apple
+--> Electron supports macOS 10.10 (Yosemite) and up. Apple
 does not allow running macOS in virtual machines unless the host computer is
 already an Apple computer, so if you find yourself in need of a Mac, consider
 using a cloud service that rents access to Macs (like [MacInCloud][macincloud]
